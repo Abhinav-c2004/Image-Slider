@@ -12,7 +12,7 @@ A simple image carousel that allows users to navigate through images using previ
 
 ## Demo
 
-[Project Preview](https://abhishekhgupta17.github.io/Image-Slider/)
+[Project Preview](https://abhinav-c2004.github.io/Image-Slider/)
 
 ## Features
 
